@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSA.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4a4ad8055aa4316c344f7fb47ee1ea21bd0c04d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSA.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSA.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

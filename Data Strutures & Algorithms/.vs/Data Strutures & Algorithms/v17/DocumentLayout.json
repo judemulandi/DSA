@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Data Strutures \u0026 Algorithms\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|c:\\users\\admin\\source\\repos\\data strutures \u0026 algorithms\\dsa.lib\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|c:\\users\\admin\\documents\\github\\dsa\\data strutures \u0026 algorithms\\dsa.lib\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|solutionrelative:dsa.lib\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|c:\\users\\admin\\documents\\github\\dsa\\data strutures \u0026 algorithms\\dsa.lib\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|solutionrelative:dsa.lib\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|c:\\users\\admin\\source\\repos\\data strutures \u0026 algorithms\\dsa.lib\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|c:\\users\\admin\\documents\\github\\dsa\\data strutures \u0026 algorithms\\dsa.lib\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|solutionrelative:dsa.lib\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F4495CB-2F61-4951-A895-B887DA211A97}|DSA.Console\\DSA.Console.csproj|c:\\users\\admin\\source\\repos\\data strutures \u0026 algorithms\\dsa.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F4495CB-2F61-4951-A895-B887DA211A97}|DSA.Console\\DSA.Console.csproj|c:\\users\\admin\\documents\\github\\dsa\\data strutures \u0026 algorithms\\dsa.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F4495CB-2F61-4951-A895-B887DA211A97}|DSA.Console\\DSA.Console.csproj|solutionrelative:dsa.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|c:\\users\\admin\\source\\repos\\data strutures \u0026 algorithms\\dsa.lib\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|c:\\users\\admin\\documents\\github\\dsa\\data strutures \u0026 algorithms\\dsa.lib\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF831B8-865F-44B4-AB2A-F8789B9F165A}|DSA.Lib\\DSA.Lib.csproj|solutionrelative:dsa.lib\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,23 +35,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Palindrome.cs",
+              "RelativeDocumentMoniker": "DSA.Lib\\Palindrome.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Palindrome.cs",
+              "RelativeToolTip": "DSA.Lib\\Palindrome.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T02:55:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CustomStack.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Data Strutures \u0026 Algorithms\\DSA.Lib\\CustomStack.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Lib\\CustomStack.cs",
               "RelativeDocumentMoniker": "DSA.Lib\\CustomStack.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Data Strutures \u0026 Algorithms\\DSA.Lib\\CustomStack.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Lib\\CustomStack.cs",
               "RelativeToolTip": "DSA.Lib\\CustomStack.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswCcAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-17T17:13:13.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Util.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Util.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Util.cs",
               "RelativeDocumentMoniker": "DSA.Lib\\Util.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Util.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Util.cs",
               "RelativeToolTip": "DSA.Lib\\Util.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,24 +72,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Sorting.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Sorting.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Sorting.cs",
               "RelativeDocumentMoniker": "DSA.Lib\\Sorting.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Sorting.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Lib\\Sorting.cs",
               "RelativeToolTip": "DSA.Lib\\Sorting.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAUwFUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T07:00:46.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T07:00:46.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Data Strutures \u0026 Algorithms\\DSA.Console\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Console\\Program.cs",
               "RelativeDocumentMoniker": "DSA.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Data Strutures \u0026 Algorithms\\DSA.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\DSA\\Data Strutures \u0026 Algorithms\\DSA.Console\\Program.cs",
               "RelativeToolTip": "DSA.Console\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
