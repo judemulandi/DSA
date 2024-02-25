@@ -9,3 +9,15 @@ C:\Users\ADMIN\source\repos\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0
 C:\Users\ADMIN\source\repos\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\refint\DSA.Lib.dll
 C:\Users\ADMIN\source\repos\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\DSA.Lib.pdb
 C:\Users\ADMIN\source\repos\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\ref\DSA.Lib.dll
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\DSA.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\DSA.Lib.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\DSA.Lib.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\DSA.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\DSA.Lib.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\DSA.Lib.dll
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\refint\DSA.Lib.dll
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\DSA.Lib.pdb
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\bin\Debug\net8.0\DSA.Lib.deps.json
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\bin\Debug\net8.0\DSA.Lib.dll
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\bin\Debug\net8.0\DSA.Lib.pdb
+C:\Users\ADMIN\Documents\GitHub\DSA\Data Strutures & Algorithms\DSA.Lib\obj\Debug\net8.0\ref\DSA.Lib.dll

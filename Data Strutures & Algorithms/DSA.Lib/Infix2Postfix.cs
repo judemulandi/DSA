@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,7 +28,7 @@ namespace DSA.Lib
             return 'L';
         }
 
-        static void Infix2Postfix(string s)
+        static void DoInfix2Postfix(string s)
         {
             Stack<char> stack = new Stack<char>();
             List<char> result = new List<char>();
@@ -73,6 +74,60 @@ namespace DSA.Lib
             }
             Console.WriteLine(string.Join(", ", result));
         } 
+        //Works for single digits
+        public static string DoEvaluate(string s)
+        {
+            Stack i = new Stack();
+            string answer  = String.Empty;
+
+            int a, b, ans;
+            for(int j = 0; j < s.Length; j++)
+            {
+                String c = s.Substring(j, 1);
+                if (c.Equals("*"))
+                {
+                    String sa = (String)i.Pop();
+                    String sb = (String)i.Pop();
+                    a = Convert.ToInt32(sa);
+                    b = Convert.ToInt32(sb);
+                    ans = a * b;
+                    i.Push(ans.ToString());
+                }else if (c.Equals("/"))
+                {
+                    String sa = (String)i.Pop();
+                    String sb = (String)i.Pop();
+                    a = Convert.ToInt32(sa);
+                    b = Convert.ToInt32(sb);
+                    ans = a / b;
+                    i.Push(ans.ToString());
+                }
+                else if (c.Equals("+"))
+                {
+                    String sa = (String)i.Pop();
+                    String sb = (String)i.Pop();
+                    a = Convert.ToInt32(sa);
+                    b = Convert.ToInt32(sb);
+                    ans = a + b;
+                    i.Push(ans.ToString());
+                }
+                else if (c.Equals("-"))
+                {
+                    String sa = (String)i.Pop();
+                    String sb = (String)i.Pop();
+                    a = Convert.ToInt32(sa);
+                    b = Convert.ToInt32(sb);
+                    ans = a - b;
+                    i.Push(ans.ToString());
+                }
+                else
+                {
+                    i.Push(c);
+                }
+            }
+
+            answer = (String)i.Pop ();
+            return answer;
+        }
 
 
     }

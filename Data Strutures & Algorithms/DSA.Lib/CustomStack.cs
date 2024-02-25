@@ -36,8 +36,7 @@ namespace DSA.Lib
             index--;
             return obj;
         }
-
-        public void clear()
+      
 
 
     }
